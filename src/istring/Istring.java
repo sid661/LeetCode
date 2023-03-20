@@ -1,10 +1,4 @@
 package istring;
-/*
-    Class IString stores the inverse of a given String. Two instances of IString are considered
-    equal if the characters at odd numbered positions in the "inversed strings" are the same.
-    Implement the class and a test program.*/
-
-
 public class Istring {
      String initialString;
      String inversed;
