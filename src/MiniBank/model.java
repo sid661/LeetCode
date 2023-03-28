@@ -7,7 +7,7 @@ public class model {
     public model() {
     }
 
-    public model(double balance, String transaction) {
+    private model(double balance, String transaction) {
         this.balance = balance;
         this.transaction = transaction;
     }
